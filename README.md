@@ -14,7 +14,7 @@ Otvoren za saradnju i nove izazove!
 
 ## 🚀 Trenutno radim sa:
 
-- **Frontend**: React.js, Vue.js, Angular, Bootstrap, Sass
+- **Frontend**: HTML, CSS, JavaScript, React.js, Vue.js, Angular, Bootstrap, Sass
 - **Backend**: PHP, Laravel, Node.js, MySQL/SQL
 
 ---
